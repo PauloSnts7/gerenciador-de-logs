@@ -11,13 +11,12 @@ Ele registra logs críticos localmente e envia eventos de erro para o Sentry, pe
 - Configuração de logging com `loguru` e `logging` do Python.  
 - Integração com **Sentry** para envio de erros e exceções.  
 - Registro de logs críticos usando `logging.critical()`.  
-- Demonstração do envio de eventos para Sentry (DSN já configurado no script).
+- Demonstração do envio de eventos para Sentry.
 
 
 ## Instalação
 
 1. Clonar o repositório:
-```bash
 git clone https://github.com/SEU_USUARIO/LogsProject.git
 
 2. Entrar na pasta do projeto:
